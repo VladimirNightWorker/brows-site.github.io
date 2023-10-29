@@ -1,6 +1,6 @@
-
 body {
-    background-color: rgba(220, 144, 231, 0.934);
+    /* background-color: rgba(220, 144, 231, 0.934); */
+    background: linear-gradient(33deg, #ffee33 0%, #f542bc 100%);
 }
 
 header {
@@ -14,11 +14,23 @@ img:last-child {
 }
 
 h1 {
+    font-family: 'Majestic X';
+    font-size: 3.7rem;
     padding: 1rem;
     text-align: center;
-    font-weight: 100;
-    /* background-color: rgb(231, 145, 41); */
+    /* font-weight: 200; */
+    background-color: rgba(248, 173, 81, 0.888);
 }
+
+.about .container {
+    font-family: 'Adana script';
+    font-size: 2.2rem;
+}
+
+/* ul li .nav-item {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+} */
+
 
 .conteiner-fluid {
     align-content: center;
