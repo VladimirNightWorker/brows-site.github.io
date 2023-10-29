@@ -12,6 +12,10 @@ img:last-child {
     margin-right: 15px;
 }
 
+div .carousel-item img {
+    border-radius: 30px;
+}
+
 h1 {
     font-family: 'Majestic X';
     font-size: 3.7rem;
